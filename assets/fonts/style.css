@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'iosevka-ss14-extendedextrabold';
+   font-display: swap;
+   src: url('iosevka-ss14-extendedextrabold/font.ttf');
+}
+@font-face {
+   font-family: 'iosevka-ss14-medium';
+   font-display: swap;
+   src: url('iosevka-ss14-medium/font.ttf');
+}
